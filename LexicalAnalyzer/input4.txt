@@ -1,0 +1,6 @@
+var xthjflfuirjn, y;
+begin$$$
+	y := 378697;
+	x := y + 56;
+/*hello*/
+end.

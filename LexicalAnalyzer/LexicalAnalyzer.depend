@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1695831318 source:c:\users\kegri\onedrive\desktop\ucf\junior\cop3402\lexicalanalyzer\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1698461204 source:c:\users\kegri\onedrive\desktop\ucf\junior\cop3402\lexicalanalyzer\lex.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
