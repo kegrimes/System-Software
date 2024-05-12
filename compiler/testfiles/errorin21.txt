@@ -1,0 +1,8 @@
+var a, b;
+procedure A;
+	begin
+		a := A + b;
+	end;
+begin
+	call A;
+end.

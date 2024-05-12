@@ -1,0 +1,5 @@
+/* hello! *hi */
+var x, y;
+begin
+	x := y;
+end.

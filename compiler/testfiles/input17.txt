@@ -1,0 +1,8 @@
+const d = 9;
+var x, y;
+procedure A;
+	var x;
+	begin
+		x := d + y;
+	end;
+call A.

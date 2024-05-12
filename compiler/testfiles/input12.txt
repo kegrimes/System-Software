@@ -1,0 +1,6 @@
+const r = 8, e = 9;
+var x, y, z;
+begin
+	z := 6;
+	x := r + z;
+end.

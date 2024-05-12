@@ -1,0 +1,5 @@
+/* hello this is testing **** comments!! //* I hope it works */
+var x, y;
+begin
+	x := y;
+end.

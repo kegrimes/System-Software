@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="compiler" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/compiler" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/compiler" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="errorin1.txt" />
+		<Unit filename="errorin10.txt" />
+		<Unit filename="errorin11.txt" />
+		<Unit filename="errorin12-1.txt" />
+		<Unit filename="errorin12.txt" />
+		<Unit filename="errorin13.txt" />
+		<Unit filename="errorin14.txt" />
+		<Unit filename="errorin15.txt" />
+		<Unit filename="errorin16.txt" />
+		<Unit filename="errorin17.txt" />
+		<Unit filename="errorin18.txt" />
+		<Unit filename="errorin2.txt" />
+		<Unit filename="errorin20.txt" />
+		<Unit filename="errorin21.txt" />
+		<Unit filename="errorin22.txt" />
+		<Unit filename="errorin23.txt" />
+		<Unit filename="errorin25.txt" />
+		<Unit filename="errorin26.txt" />
+		<Unit filename="errorin27.txt" />
+		<Unit filename="errorin29.txt" />
+		<Unit filename="errorin3.txt" />
+		<Unit filename="errorin30.txt" />
+		<Unit filename="errorin4-1.txt" />
+		<Unit filename="errorin4-2.txt" />
+		<Unit filename="errorin4-3.txt" />
+		<Unit filename="errorin4.txt" />
+		<Unit filename="errorin5-1.txt" />
+		<Unit filename="errorin5.txt" />
+		<Unit filename="errorin6.txt" />
+		<Unit filename="errorin9.txt" />
+		<Unit filename="hw4compiler.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="input.txt" />
+		<Unit filename="input10.txt" />
+		<Unit filename="input11.txt" />
+		<Unit filename="input12.txt" />
+		<Unit filename="input13.txt" />
+		<Unit filename="input14.txt" />
+		<Unit filename="input15.txt" />
+		<Unit filename="input16.txt" />
+		<Unit filename="input17.txt" />
+		<Unit filename="input18.txt" />
+		<Unit filename="input19.txt" />
+		<Unit filename="input2.txt" />
+		<Unit filename="input20.txt" />
+		<Unit filename="input21.txt" />
+		<Unit filename="input3.txt" />
+		<Unit filename="input4.txt" />
+		<Unit filename="input5.txt" />
+		<Unit filename="input6.txt" />
+		<Unit filename="input7.txt" />
+		<Unit filename="input8.txt" />
+		<Unit filename="input9.txt" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

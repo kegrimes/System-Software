@@ -1,0 +1,4 @@
+var a, b;
+begin
+	if a then a := b
+end.

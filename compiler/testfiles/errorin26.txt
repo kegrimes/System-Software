@@ -1,0 +1,4 @@
+var mississippii, x;
+begin
+	mississippii := x;
+end.

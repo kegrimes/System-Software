@@ -1,0 +1,11 @@
+procedure fooA;
+	procedure fooB;
+		begin
+			call fooA;
+		end;
+	begin
+		call fooB;
+	end;
+begin
+	call fooA;
+end.

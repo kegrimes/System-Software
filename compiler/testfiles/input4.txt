@@ -1,0 +1,18 @@
+var a,b;
+procedure foo;
+	var x;
+	begin
+		read x;
+		a := x;
+	end;
+procedure lol;
+	var y;
+	begin
+		y :=b;
+		write y;
+	end;
+begin
+	call foo;
+	b := a;
+	call lol;
+end.

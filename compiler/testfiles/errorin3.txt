@@ -1,0 +1,5 @@
+const c;
+var a, b;
+begin
+	a := c + b;
+end.

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1700530274 source:c:\users\kegri\onedrive\desktop\ucf\junior\cop3402\compiler\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1701909952 source:c:\users\kegri\onedrive\desktop\ucf\junior\cop3402\compiler\hw4compiler.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+

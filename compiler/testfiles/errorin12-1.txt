@@ -1,0 +1,9 @@
+const c = 9;
+var a, b;
+procedure A;
+	begin
+		c := a + b;
+	end;
+begin
+	call A;
+end.

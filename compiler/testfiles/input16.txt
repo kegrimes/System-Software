@@ -1,0 +1,5 @@
+const d = 9;
+var x, y;
+begin
+	x := d;
+end.

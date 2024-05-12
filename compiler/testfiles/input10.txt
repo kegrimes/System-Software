@@ -1,0 +1,6 @@
+var x, y;
+begin
+    y := 4;
+    if x > y then read x
+    x := 7;
+end.

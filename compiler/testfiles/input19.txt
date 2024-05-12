@@ -1,0 +1,9 @@
+var x, y;
+procedure B;
+	var y;
+procedure A;
+	var B;
+	begin
+		call B;
+	end;
+call A.
