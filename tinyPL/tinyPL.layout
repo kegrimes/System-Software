@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="errorin13.txt" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="42" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="errorin20.txt" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="40" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="errorin12.txt" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="41" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="parsercodegen.c" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="38657" topLine="357" />
+		</Cursor>
+		<Folding>
+			<Collapse line="91" />
+			<Collapse line="190" />
+			<Collapse line="234" />
+			<Collapse line="251" />
+			<Collapse line="258" />
+			<Collapse line="278" />
+			<Collapse line="298" />
+			<Collapse line="307" />
+			<Collapse line="316" />
+			<Collapse line="355" />
+			<Collapse line="650" />
+			<Collapse line="682" />
+			<Collapse line="693" />
+			<Collapse line="701" />
+			<Collapse line="709" />
+			<Collapse line="730" />
+			<Collapse line="740" />
+			<Collapse line="752" />
+			<Collapse line="772" />
+			<Collapse line="828" />
+			<Collapse line="848" />
+			<Collapse line="900" />
+			<Collapse line="1024" />
+			<Collapse line="1056" />
+			<Collapse line="1096" />
+			<Collapse line="1105" />
+			<Collapse line="1117" />
+			<Collapse line="1127" />
+			<Collapse line="1136" />
+		</Folding>
+	</File>
+	<File name="correctin2.txt" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="62" topLine="0" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>

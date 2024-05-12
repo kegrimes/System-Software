@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1698593480 source:c:\users\kegri\onedrive\desktop\ucf\junior\cop3402\tinypl\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1698684498 source:c:\users\kegri\onedrive\desktop\ucf\junior\cop3402\tinypl\parsercodegen.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+

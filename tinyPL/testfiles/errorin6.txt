@@ -1,0 +1,5 @@
+const y = 9;
+var s
+begin
+	s := y / 3;
+end.

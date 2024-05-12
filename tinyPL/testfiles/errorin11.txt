@@ -1,0 +1,5 @@
+const x = 7, y = 5;
+var w;
+begin
+	if x > y w := y + 1;
+end.

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="tinyPL" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/tinyPL" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/tinyPL" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="correctin2.txt" />
+		<Unit filename="errorin1.txt" />
+		<Unit filename="errorin10.txt" />
+		<Unit filename="errorin11.txt" />
+		<Unit filename="errorin12.txt" />
+		<Unit filename="errorin13.txt" />
+		<Unit filename="errorin14.txt" />
+		<Unit filename="errorin15.txt" />
+		<Unit filename="errorin17.txt" />
+		<Unit filename="errorin18.txt" />
+		<Unit filename="errorin19.txt" />
+		<Unit filename="errorin2.txt" />
+		<Unit filename="errorin20.txt" />
+		<Unit filename="errorin3.txt" />
+		<Unit filename="errorin4.txt" />
+		<Unit filename="errorin5.txt" />
+		<Unit filename="errorin6.txt" />
+		<Unit filename="errorin7.txt" />
+		<Unit filename="errorin8.txt" />
+		<Unit filename="errorin9.txt" />
+		<Unit filename="input.txt" />
+		<Unit filename="parsercodegen.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

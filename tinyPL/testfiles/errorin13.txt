@@ -1,0 +1,5 @@
+const y = 1, x = 9;
+var w;
+begin
+	if y 1 then w := y + x;
+end.

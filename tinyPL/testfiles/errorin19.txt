@@ -1,0 +1,5 @@
+const x = 8;
+var y;
+begin
+	y := x % 2;
+end.

@@ -1,0 +1,4 @@
+var procedure, call;
+begin
+	procedure := call + 345678;
+end.

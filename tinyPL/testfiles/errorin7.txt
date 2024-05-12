@@ -1,0 +1,4 @@
+var w, z;
+begin
+	y := w / 4;
+end.

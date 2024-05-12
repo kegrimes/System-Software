@@ -1,0 +1,5 @@
+const x =;
+var w;
+begin
+	w := 8 * x;
+end.

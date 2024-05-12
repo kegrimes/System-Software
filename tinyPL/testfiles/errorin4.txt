@@ -1,0 +1,5 @@
+const t;
+var x;
+begin
+	x := t + 1;
+end.

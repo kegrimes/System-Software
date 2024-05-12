@@ -1,0 +1,4 @@
+var identifier01, x;
+begin
+	x := identifier01 + 1;
+end.

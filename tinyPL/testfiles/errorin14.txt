@@ -1,0 +1,4 @@
+var t, y, q;
+begin
+	y := (t + q / 4;
+end.

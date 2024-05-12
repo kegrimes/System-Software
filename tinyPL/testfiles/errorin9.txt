@@ -1,0 +1,5 @@
+const d = 2;
+var r, t;
+begin
+	r = d + 7;
+end.
