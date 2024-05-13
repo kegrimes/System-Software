@@ -22,8 +22,8 @@ A virtual machine, or VM, is a machine that implements an ISA, otherwise known a
 07 - JMP 0,M  
 08 - JPC 0,M  
 09 - SYS 0,1  
-&emsp;&ensp;SYS 0,2  
-&emsp;&ensp;SYS 0,3  
+&emsp;&ensp;&ensp;SYS 0,2  
+&emsp;&ensp;&ensp;SYS 0,3  
 
 ### Test files:
 There are 2 files used for testing: _"input.txt"_ and _"recursive_input.txt"_
