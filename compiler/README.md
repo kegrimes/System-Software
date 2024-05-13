@@ -2,7 +2,7 @@
 A complier takes high level languages, like JAVA or C, and translates them into assembly language. This is done in a few steps: (1) create a lexical analyzer that reads in characters to group into lexical units and create corresponding tokens, (2) check if the program is syntactically correct by parsing through the tokens generated (if not, emit an error message), and (3) generate the assembly code. By following the given grammar, the programs inputed should be syntactically correct and will display the source code and assembly language prodcued. If the program does not follow the grammar, it will print an error message and immediately stop execution.
 
 ### EBNF Grammar:
-
+![image](https://github.com/kegrimes/System-Software/assets/117098682/2b8760b3-ab29-4b92-8bc6-87d93358f3be)
 
 ### Test Files:
 There is a folder called "testfiles" that contains input testing files along with their corresponding output files. For example, "errorin1.txt" is the input file and "errorout1.txt" is the output file. When testing this code, the output file will always be called "output.txt" and should be overwritten when testing all the input files. However, it should match one of the correct output files in the folder.
