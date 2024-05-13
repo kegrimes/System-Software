@@ -3,8 +3,8 @@ A virtual machine, or VM, is a machine that implements an ISA, otherwise known a
 
 ### ISA Pseudo Code:
 01 - LIT 0,M  
-02 - OPR, o,#  
-   0 RTN  
+02 - OPR, 0,#  
+&emsp;0 RTN  
    1 ADD  
    2 SUB  
    3 MUL  
