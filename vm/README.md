@@ -5,16 +5,16 @@ A virtual machine, or VM, is a machine that implements an ISA, otherwise known a
 01 - LIT 0,M  
 02 - OPR, 0,#  
 &emsp;0 RTN  
-   1 ADD  
-   2 SUB  
-   3 MUL  
-   4 DIV
-   5 EQL  
-   6 NEQ  
-   7 LSS  
-   8 LEQ  
-   9 GTR  
-   10 GEQ  
+&emsp;1 ADD  
+&emsp;2 SUB  
+&emsp;3 MUL  
+&emsp;4 DIV
+&emsp;5 EQL  
+&emsp;6 NEQ  
+&emsp;7 LSS  
+&emsp;8 LEQ  
+&emsp;9 GTR  
+&emsp;10 GEQ  
 03 - LOD L,M  
 04 - STO L,M  
 05 - CAL L,M  
