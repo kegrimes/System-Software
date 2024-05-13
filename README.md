@@ -1,4 +1,4 @@
-# System-Software
+# Systems-Software
 Created 4 projects in COP3402, Systems Software: virtual machine, lexical analyzer, tiny P/L machine, and compiler
 
 ### Overview:
