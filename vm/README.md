@@ -8,7 +8,7 @@ A virtual machine, or VM, is a machine that implements an ISA, otherwise known a
 &emsp;1 ADD  
 &emsp;2 SUB  
 &emsp;3 MUL  
-&emsp;4 DIV
+&emsp;4 DIV  
 &emsp;5 EQL  
 &emsp;6 NEQ  
 &emsp;7 LSS  
